@@ -1,15 +1,13 @@
-# clone_website1
+<div align="center">
+<h1>clone website</h1>
+<h4>https://besthorrorscenes.com/</h4>
+<img src="https://user-images.githubusercontent.com/87973617/184595427-b8b4856e-12f1-40d3-b4b7-18c0c69d19c0.gif">
+</div>
 
-## 노마드코드 강의를 보고 만든 첫 웹사이트
-### 노마트 코더 강의에서는 반응협 웹이 아닌 정적인 웹사이트로 클론코딩을 했으나 나는 여기에 _mixins.scss 파일을 추가해 @media 를 이용해 반응형 웹으로 업그레이드 하였다.
+## Code Upgrade
+**정적 웹을 동적 웹으로 업그레이드**
++ mixins 활용 (_mixins.scss 파일 추가)
++ @media로 화면 크기에 따른 css 변경 
++ px를 em, rem으로 변경
++ 기존 웹사이트와 동일하게 만들기 위해 마지막 문단 추가
 
-## 달라진점 1
-### index.html 파일에 html글씨 크기를 지정해주어 px를 em, rem으로 바꿔주었다
-
-## 달라진점 2
-### _mixins.scss파일을 추가해 코드를 작성하였다.
-
-## 달라진점 3
-### 강의에서는 마지막 nav태그가 있는 text가 마지막이지만 나는 기존 페이지와 동일하게 문단하나를 더 추가해 주었다.
-
-### scss를 이용해 만든 첫 웹사이트이다. 
